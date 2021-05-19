@@ -1,0 +1,1 @@
+web: gunicon kamal_enterprise.wsgi
